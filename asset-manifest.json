@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hot-burgers/static/css/main.3d2a5f5c.chunk.css",
+    "main.js": "/hot-burgers/static/js/main.e0980edb.chunk.js",
+    "main.js.map": "/hot-burgers/static/js/main.e0980edb.chunk.js.map",
+    "runtime-main.js": "/hot-burgers/static/js/runtime-main.eb76173a.js",
+    "runtime-main.js.map": "/hot-burgers/static/js/runtime-main.eb76173a.js.map",
+    "static/js/2.60ddec70.chunk.js": "/hot-burgers/static/js/2.60ddec70.chunk.js",
+    "static/js/2.60ddec70.chunk.js.map": "/hot-burgers/static/js/2.60ddec70.chunk.js.map",
+    "index.html": "/hot-burgers/index.html",
+    "precache-manifest.f11b1e933e8fe6401edf4b303f710bd6.js": "/hot-burgers/precache-manifest.f11b1e933e8fe6401edf4b303f710bd6.js",
+    "service-worker.js": "/hot-burgers/service-worker.js",
+    "static/css/main.3d2a5f5c.chunk.css.map": "/hot-burgers/static/css/main.3d2a5f5c.chunk.css.map",
+    "static/media/style.css": "/hot-burgers/static/media/burgernaya.a37bfead.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb76173a.js",
+    "static/js/2.60ddec70.chunk.js",
+    "static/css/main.3d2a5f5c.chunk.css",
+    "static/js/main.e0980edb.chunk.js"
+  ]
+}
