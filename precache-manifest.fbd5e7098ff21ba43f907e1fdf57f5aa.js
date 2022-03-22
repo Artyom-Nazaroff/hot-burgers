@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "689957f0638bdf986f308f3243c4c1dc",
+    "revision": "2e36d9c7cc2ff465fa86a50234e2d6f4",
     "url": "/hot-burgers/index.html"
   },
   {
-    "revision": "dbc280a6e11782e97497",
+    "revision": "048c88634a163cd63956",
     "url": "/hot-burgers/static/css/main.3d2a5f5c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hot-burgers/static/js/2.60ddec70.chunk.js"
   },
   {
-    "revision": "dbc280a6e11782e97497",
-    "url": "/hot-burgers/static/js/main.e0980edb.chunk.js"
+    "revision": "048c88634a163cd63956",
+    "url": "/hot-burgers/static/js/main.7fbe0d7b.chunk.js"
   },
   {
     "revision": "a5a0e5b337eff91b963e",
