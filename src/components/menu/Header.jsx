@@ -24,7 +24,7 @@ const Header = ({title}) => {
                     </h3>
                     <button
                         className={'header-button'}
-                        onClick={() => navigate('/')}
+                        onClick={() => navigate('hot-burgers/')}
                     >
                         Покинуть ресторан
                     </button>
