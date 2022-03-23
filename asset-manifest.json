@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hot-burgers/static/css/main.3d2a5f5c.chunk.css",
-    "main.js": "/hot-burgers/static/js/main.feb7e605.chunk.js",
-    "main.js.map": "/hot-burgers/static/js/main.feb7e605.chunk.js.map",
+    "main.js": "/hot-burgers/static/js/main.8426b35c.chunk.js",
+    "main.js.map": "/hot-burgers/static/js/main.8426b35c.chunk.js.map",
     "runtime-main.js": "/hot-burgers/static/js/runtime-main.eb76173a.js",
     "runtime-main.js.map": "/hot-burgers/static/js/runtime-main.eb76173a.js.map",
     "static/js/2.60ddec70.chunk.js": "/hot-burgers/static/js/2.60ddec70.chunk.js",
     "static/js/2.60ddec70.chunk.js.map": "/hot-burgers/static/js/2.60ddec70.chunk.js.map",
     "index.html": "/hot-burgers/index.html",
-    "precache-manifest.caa865a3e106b35778e05e2565cb52a0.js": "/hot-burgers/precache-manifest.caa865a3e106b35778e05e2565cb52a0.js",
+    "precache-manifest.9596a4f46c41d13ddd0e3e59913c7899.js": "/hot-burgers/precache-manifest.9596a4f46c41d13ddd0e3e59913c7899.js",
     "service-worker.js": "/hot-burgers/service-worker.js",
     "static/css/main.3d2a5f5c.chunk.css.map": "/hot-burgers/static/css/main.3d2a5f5c.chunk.css.map",
     "static/media/style.css": "/hot-burgers/static/media/burgernaya.a37bfead.jpg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.eb76173a.js",
     "static/js/2.60ddec70.chunk.js",
     "static/css/main.3d2a5f5c.chunk.css",
-    "static/js/main.feb7e605.chunk.js"
+    "static/js/main.8426b35c.chunk.js"
   ]
 }
