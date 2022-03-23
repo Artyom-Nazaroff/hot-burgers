@@ -8,8 +8,8 @@ const Router = () => {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path={'/'} element={<LandingContainer/>}/>
-                <Route path={'/restaurant/:restaurantId'} element={<App/>}/>
+                <Route path={'hot-burgers/'} element={<LandingContainer/>}/>
+                <Route path={'restaurant/:restaurantId'} element={<App/>}/>
                 <Route path={'*'} element={<NotFound/>}/>
             </Routes>
         </BrowserRouter>
